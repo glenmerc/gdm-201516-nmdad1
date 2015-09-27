@@ -6,7 +6,7 @@ Ik studeer Grafische en digitale media aan de arteveldehogeschool in Gent.
 Ik ben hoofdleider bij de KSA van Walfergem, dus leiding geven/nemen zit me in het bloed</p></br>
 <h2>Portfolio</h2>
   <ul>
-    <li><a href:"www.ksawalfergem.com">KSA website</a></li>
+    <li>KSA website: www.ksawalfergem.com</li>
   </ul>
 </br>
 <h2>Werkervaring</h2></br>
